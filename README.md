@@ -14,7 +14,7 @@ The queries I used were:
   DESCRIBE
   WHERE ... IS NULL (null-checking)
   COUNT(*)
-  COUNT(DISTINCT) (implied or could enhance KPIs)
+  COUNT(DISTINCT) 
   AVG(...)
   SUM(...)
   CASE WHEN ... THEN ... END (used for age grouping)
@@ -22,7 +22,7 @@ The queries I used were:
   ORDER BY
   WHERE BETWEEN ... AND ... (inside CASE for age ranges)
 
-After I completed transofmring my data, I loaded it into Tableau where I created a dashboard highlighting the findings from my analysis. A photo of my dashboard can be found in my repository. The link to my dashboard is : https://public.tableau.com/app/profile/caroline.klug/viz/shared/7NT2PRMXB
+After I completed transforming my data, I loaded it into Tableau where I created a dashboard highlighting the findings from my analysis. A photo of my dashboard can be found in my repository. The link to my dashboard is : https://public.tableau.com/app/profile/caroline.klug/viz/shared/7NT2PRMXB
 
   
 
